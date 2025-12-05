@@ -39,9 +39,6 @@ const orderSchema = yup.object().shape({
   ],"Status jest wymagany"),
 })
 
-// ------------------ HELPERS ------------------
-// helpers вынесены в utils без изменения логики
-
 // ------------------ COMPONENT ------------------
 const OrderFormPage = () => {
   const { id } = useParams()
