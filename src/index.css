@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: nord --default, night --prefersdark;
+}
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+
