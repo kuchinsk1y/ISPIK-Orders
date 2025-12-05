@@ -56,30 +56,3 @@ const StatsCards = ({ stats, loading }) => {
 }
 
 export default StatsCards
-
-
-
-/* 
-
-const StatsCards = ({ stats }) => {
-  return (
-    <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-      {stats.map((stat, idx) => (
-        <div key={idx} className="relative p-6 rounded-2xl shadow-lg bg-gray-800 border border-gray-700 hover:scale-105 transform transition-all duration-300">
-          <div className="flex items-center">
-            <div className="text-4xl mr-4 text-blue-400">{stat.icon}</div>
-            <div>
-              <h3 className="text-2xl font-bold text-white">{stat.value}</h3>
-              <p className="text-sm text-gray-300">{stat.title}</p>
-            </div>
-          </div>
-        </div>
-      ))}
-    </div>
-  )
-}
-
-export default StatsCards
-
-
-*/
