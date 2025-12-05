@@ -242,7 +242,7 @@ Aplikacja używa tokenów JWT do uwierzytelniania:
 
 ---
 ### 🛠️ Wkład:
-- **Architektura i refaktoryzacja**: 2024-2025
+- **Architektura i refaktoryzacja**: 2025
 - **Rozwój Frontendu**: React 18 + Vite
 - **Integracja Backendu**: Google Apps Script
 - **Design UI/UX**: TailwindCSS + DaisyUI
