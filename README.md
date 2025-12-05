@@ -257,3 +257,5 @@ Projekt prywatny. Wszelkie prawa zastrzeżone.
 
 **Made with ❤️ using React + Vite**
 
+- **Tymur Kuchynskyi**
+- **Vitalii Vykhrystiuk**
